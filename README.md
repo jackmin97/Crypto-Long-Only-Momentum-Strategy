@@ -7,9 +7,11 @@ We have defined a static list of 10 cryptocurrencies which will form the univers
 # 2. Alpha Generation 
 We have used the following parameters to assign a score to each of the cryptocurrencies.
 
-2.1. 2-day returns;
-2.2. 7-day standard deviation;
-2.3. 14-day relative strength index.
+2.1. 2-day returns
+
+2.2. 7-day standard deviation
+
+2.3. 14-day relative strength index
 
 In this step, the 2-day returns, the 7-day standard deviation and 14-day RSI is computed and are ranked as below
 
